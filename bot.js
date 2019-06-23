@@ -164,7 +164,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove: https://discord.gg/mPWmh7:scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove: https://discord.gg/AgEaCn5:scroll: **`)
          
    message.author.sendEmbed(embed)
    
@@ -176,7 +176,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove: https://discord.gg/mPWmh7 :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove: https://discord.gg/AgEaCn5 :scroll: **`)
         
    message.author.sendEmbed(embed)
    
