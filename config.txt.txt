@@ -1,0 +1,4 @@
+token=NDQ1MDI2NTMxMzQxNzYyNTYw.XRSK6Q.Q_wRt2BPG4tQpt5Z8BZ8YkGlWx0
+owner=409045670943784974
+prefix=-
+game=-help||-invite
